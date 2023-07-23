@@ -1,17 +1,1 @@
-title: "Cool pages"
-theme: jekyll-theme-simplex
-
-# From https://github.com/andreondra/jekyll-theme-simplex
-collections:
-    category:
-        output: true
-    authors:
-        output: false
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
+title: "Cool guides"
